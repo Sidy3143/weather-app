@@ -21,6 +21,9 @@ It uses the WeatherAPI to fetch real-time weather data and the Giphy API to disp
 | **WeatherAPI**       | Provides real-time weather data                 |
 | **Giphy API**        | Fetches a matching weather GIF                  |
 
+## 🖼️ Preview
+
+![Weather app preview](cloudy.png)
 
 ## 🌈 Future Improvements
 
