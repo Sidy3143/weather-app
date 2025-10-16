@@ -3,9 +3,26 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/882588fa9b.js" crossorigin="anonymous"></script>
+
     <title>Project</title>
 </head>
 <body>
-    
+    <div class="header">
+        <img src="cloudy.png" alt="Weather image" class="weather-icon">
+        <h2>The Weather App</h2>
+    </div>
+    <form>
+        <label for="location">
+            Enter a location:
+            <div class="search">
+                <input type="text" id="location">
+                <i class="fa-solid fa-magnifying-glass"></i>
+            </div>
+        </label>
+        <button type="submit">Submit</button>
+    </form>
+    <div class="display">
+    </div>
 </body>
 </html>
