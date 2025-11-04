@@ -23,7 +23,7 @@ It uses the WeatherAPI to fetch real-time weather data and the Giphy API to disp
 
 ## 🖼️ Preview
 
-![Weather app preview](cloudy.png)
+![Weather app preview](preview.png)
 
 ## 🌈 Future Improvements
 
